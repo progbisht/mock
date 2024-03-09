@@ -1,0 +1,790 @@
+{
+    "packages" : [
+        {
+            "id": 1001,
+            "imgSrc": "/assets/images/pahalgam.webp",
+            "destTitle": "Pahalgam Panorama",
+            "duration": "6",
+            "location": "Jammu & Kashmir",
+            "grade": "Premium",
+            "price": "On-Call",
+            "description": "Pahalgam, nestled in the heart of the Kashmir Valley, is renowned for its breathtaking natural beauty. Surrounded by lush greenery, majestic mountains, and gushing rivers, it offers a serene escape for nature lovers and adventure enthusiasts. Famous for its picturesque landscapes and as a base for trekking and outdoor activities.",
+            "rating": 5,
+            "menuInfo": {
+                "sightseeing": [
+                    "Srinagar, Boulevard Road, Dal Lake, Zabarwan Mountain Ranges, Shikara Ride, Mughal Gardens, CheshmaShahi, PariMahal, Shalimar Garden, Nishat Garden",
+                    "Shankaracharya Temple, Handicraft Emporium",
+                    "Pahalgam, Avantipura Ruins, Anantnag Sulpher Springs, Chandanwadi",
+                    "Snow Point, Pony Ride, Lidder River, Nanga Parbat, Tangmarg, Trek to Khilangmarg, Mountains Rides"
+                    
+                    ],
+                "flight": [
+                        "Return Economy Class Airfare Included"
+                ],
+                "meals": [
+                    "Breakfast and Dinner"
+                ],
+                "carry": [
+                    "Authentic Government ID Card",
+                    "Comfortable warm clothing",
+                    "Sunscreen & lip balm",
+                    "Personal Medicines (if any)"
+                ]
+            },
+            "itneary": [{
+                    "id": 1,
+                    "day": 1,
+                    "location": "Arrival in Srinagar. Stay in a houseboat.",
+                    "imgSrc": "/assets/images/houseboat.webp",
+                    "description": "Arrive at Srinagar airport, and witness snow-capped mountains. Our representative will guide you to the houseboat, check-in, and unwind. In the evening, take a one-hour Shikara ride, and admire Pir Panjal ranges. After, returning to the houseboat for dinner, stay overnight in Srinagar."
+                },
+                {
+                    "id": 2,
+                    "day": 2,
+                    "location": "Srinagar to Gulmarg and enjoy a day of relaxation. Take Asia,s highest gondola ride",
+                    "imgSrc": "/assets/images/gulmarg1.webp",
+                    "description": "Start your day at Gulmarg, a scenic destination. Witness Tanmarg's enchanting landscapes. Reach Gulmarg and take the highest gondola ride. Admire panoramic views of Kashmir Valley. Explore Gulmarg with activities like trekking or pony rides to Khilangmarg, 6 kilometers away. Alternatively, enjoy the vibrant market scene. Hop from one cafe to another. Savor delicious culinary delights."
+                },
+                {
+                    "id": 3,
+                    "day": 3,
+                    "location": "Srinagar to Pahalgam . Enroute the Saffron Valley and visit the awantipora ruin",
+                    "imgSrc": "/assets/images/pahalgam1.webp",
+                    "description": "Begin your day on your way to Pahalgam via a 4-hour scenic drive. Pause in Pulwama District to explore Avantipur Ruins. Check into your hotel upon arrival, enjoying leisure time for the day. Options include rafting or fishing in Lidder River and exploring the local market for souvenirs. Return to your hotel for dinner and spend the night in Pahalgam."
+                },
+                {
+                    "id": 4,
+                    "day": 4,
+                    "location": "Pahalgam to Srinagar.Excursion trip to Betaab Valley And Aru Valley ",
+                    "imgSrc": "/assets/images/betaab.webp",
+                    "description": "Start your day with a serene Pahalgam sunrise, then enjoy a hearty breakfast. Prepare for adventures and board your transfers. Explore the picturesque Aru Valley, famous for lush meadows, clear lakes, and tall mountains. Visit the iconic Betaab Valley, beloved by Bollywood for its stunning beauty. If weather permits, head to the scenic Chandanwari Valley for a thrilling pony ride (extra cost). As the day ends, return to Srinagar. Check in at the hotel and relish a delicious dinner."
+                },
+                {
+                    "id": 5,
+                    "day": 5,
+                    "location": "Trip to Sonmarg(Golden Meadow). Horse Riding Upto Thajwas Glacier",
+                    "imgSrc": "/assets/images/sonmarg1.webp",
+                    "description": "Head to Sonmarg, famed for its beauty. Amidst the scenic drive, pause at the Sindh River valley's enchanting meadows. Sonamarg welcomes with serene tranquility. Engage in leisurely pursuits and opt for exciting adventures like pony rides to Thajiwas Glacier. Delight in Sonamarg's wonders before returning to Srinagar. Savor a delectable dinner and unwind at your hotel for the night."
+                },
+                {
+                    "id": 6,
+                    "day": 6,
+                    "location": "Departure",
+                    "imgSrc": "/assets/images/depart.webp",
+                    "description": "Post breakfast in the morning, check out from your hotel. Depart with a lot of memories to cherish"
+                }
+            ],
+            "miscellaneous": {
+                "inclusive": [
+                    "10 Meals (Breakfast from Day 2 to Day 6, Dinner from Day 1 to Day 5)",
+                    "Driver Charges, Permits, Tolls, Fuel & Parking charges",
+                    "Shikara Ride (1 Hr Shikara Ride)",
+                    "Internal transfer to Aru Valley, Betaab Valley and Chandanwari",
+                    "Gondola Cable Car Phase 1 tickets",
+                    "Team Captain throughout the trip",
+                    "Medical kit",
+                    "All inner line permit if anything is applicable",
+                    "Mughal Gardens entry tickets",
+                    "Entry tickets to Aru Valley, Betaab Valley and Chandanwar"
+                    ],
+                "exclusive": [
+                    "GST (5%) is applicable extra.",
+                    "Any other food or beverage charges that are not included in the package.",
+                    "Any other costing involved due to any kind of natural calamity, forced circumstances, which are out of our control.",
+                    "Any other expense not mentioned in the inclusion column.",
+                    "Any personal expenses like a tip to the drivers, entry to monuments/monasteries, camera/video camera charges, laundry, telephone bills, tips, etc",
+                    "Airport pick-up and drop not inlcuded",
+                    "Pony Rides are not included",
+                    "Any other adventure activities which is not mentioned in the inclusions"
+                ]
+            }
+        },
+
+        {
+            "id": 1002,
+            "imgSrc": "/assets/images/gulmarg.webp",
+            "destTitle": "Gulmarg Grandeur",
+            "duration": "5",
+            "location": "Jammu & Kashmir",
+            "grade": "Premium",
+            "price": "On-Call",
+            "description": "Gulmarg, nestled in the Pir Panjal range of the Himalayas, is renowned for its pristine beauty and thrilling winter sports. Known as the \"Meadow of Flowers,\" it offers panoramic vistas, world-class skiing, and snowboarding opportunities. The iconic Gulmarg Gondola, one of the highest cable cars in the world, attracts visitors seeking breathtaking mountain views.",
+            "rating": 5,
+            "menuInfo": {
+                "sightseeing": [
+                    "Srinagar, Dal Lake, Shankaracharya Temple, Mughal gardens, Shikara Ride",
+                    "Gulmarg, Maha Rani Temple, Maharaja Palace, Children park",
+                    "Pahalgam, Aru Valley, Awantipura Ruins, Betaab Valley,"
+                    ],
+                "flight": [
+                        "Return Economy Class Airfare Included"
+                ],
+                "meals": [
+                    "Breakfast and Dinner"
+                ],
+                "carry": [
+                    "Authentic Government ID Card",
+                    "Comfortable warm clothing",
+                    "Sunscreen & lip balm",
+                    "Personal Medicines (if any)"
+                ]
+            },
+            "itneary": [{
+                    "id": 1,
+                    "day": 1,
+                    "location": "Arrival and Exploration in Srinagar's Enchanting Landscapes",
+                    "imgSrc": "/assets/images/srinagar3.webp",
+                    "description": "As you arrive in Srinagar, our friendly representative will warmly welcome you, providing detailed insights into your itinerary before accompanying you to your hotel. After settling in and refreshing yourself, set out to explore the renowned Mughal Gardens nestled just beyond Srinagar's outskirts. Delight in the tranquil charm of Chashmashahi (\"The royal spring\"), Nishat (\"abode of peace\"), and Shalimar (\"abode of love\"), once cherished havens of Mughal emperors and their beloved queens. Later, soak in the scenic beauty surrounding the picturesque Dal Lake, followed by a serene Shikara Ride in the evening. Enjoy an overnight stay at the hotel."
+                },
+                {
+                    "id": 2,
+                    "day": 2,
+                    "location": "Exploring the Natural Splendor of Gulmarg from Srinagar",
+                    "imgSrc": "/assets/images/gulmarg2.webp",
+                    "description": "Following a satisfying breakfast, journey to Gulmarg, often hailed as the \"Switzerland of Asia\" and the \"Meadow of Flowers.\" Revel in the natural grandeur and snow-capped peaks of this breathtaking summer resort, renowned for hosting the world's highest Golf Course during summer and providing thrilling skiing adventures in winter. Experience the awe-inspiring Gondola ride, boasting the titles of the world's highest and Asia's longest cable car ride. Return to Srinagar for a comfortable overnight stay at the hotel."
+                },
+                {
+                    "id": 3,
+                    "day": 3,
+                    "location": "Journey to Pahalgam: Adventure and Tranquility Await",
+                    "imgSrc": "/assets/images/pahalgam2.webp",
+                    "description": "After breakfast, depart from Srinagar for a scenic drive to Pahalgam, fondly known as the \"Valley of Shepherds.\" Along the way, explore the enchanting saffron fields and the ancient Avantipur ruins, a temple steeped in history dating back over a millennium. Upon reaching Pahalgam by midday, immerse yourself in the ineffable beauty of this heavenly destination, immortalized in numerous Hindi movies. Pahalgam also serves as the base camp for the revered Amarnath Ji Yatra pilgrimage. Engage in exhilarating activities such as white-water river rafting, trout fishing, and a myriad of other adventures. Enjoy an overnight stay at the hotel."
+                },
+                {
+                    "id": 4,
+                    "day": 4,
+                    "location": "Return to Srinagar: Temple Visits and Leisurely Evenings",
+                    "imgSrc": "/assets/images/srinagar2.webp",
+                    "description": "Indulge in a delightful breakfast before bidding farewell to Pahalgam and embarking on the return journey to Srinagar. Upon arrival, check-in at the hotel and freshen up before visiting the Shankar Acharya Temple. Spend the evening at leisure, exploring shopping opportunities and engaging in personal activities. Retire for the night with another comfortable stay at the hotel."
+                }
+                ,
+                {
+                    "id": 5,
+                    "day": 5,
+                    "location": "Farewell from Srinagar: Departure with Lasting Memories",
+                    "imgSrc": "/assets/images/depart.webp",
+                    "description": "After relishing a fulfilling breakfast, proceed to your departure flight or bus, bidding adieu to Srinagar with cherished memories. We eagerly anticipate the chance to welcome you back for yet another unforgettable experience."
+                }
+            ],
+            "miscellaneous": {
+                "inclusive": [
+                        "Welcome drink upon arrival.",
+                        "Accommodation: 2 nights in Srinagar hotel, 1 night in Pahalgam hotel, 1 night in Houseboat.",
+                        "Daily breakfast and dinner provided.",
+                        "All transfers and sightseeing by Non-AC Vehicle.",
+                        "Transfers to Pahalgam and Gulmarg included.",
+                        "Full-day tour to Gulmarg.",
+                        "Explore famous Mughal Gardens in Srinagar.",
+                        "Complimentary Shikara Ride."
+                    ],
+                "exclusive": [
+                        "GST not included.",
+                        "Travel insurance is not provided.",
+                        "Entrance fees to monuments and optional activities listed in the itinerary are not included.",
+                        "Additional meals beyond those specified are not covered.",
+                        "Any items not expressly mentioned in the Inclusions column are not provided.",
+                        "Personal expenses such as porterage, tips, laundry, telephone calls, and mineral water are not covered.",
+                        "Expenses arising from factors beyond our control, such as rail and flight delays, roadblocks, and political disturbances, are not included."
+                ]
+            }
+        },
+        {
+            "id": 1003,
+            "imgSrc": "/assets/images/kashmir.webp",
+            "destTitle": "Kashmir Valley Bliss",
+            "duration": "5",
+            "location": "Jammu & Kashmir",
+            "grade": "Premium",
+            "price": "On-Call",
+            "description": "Kashmir Valley, renowned as \"Paradise on Earth,\" captivates with its stunning landscapes of snow-capped mountains, lush meadows, and serene lakes like Dal Lake. Rich in cultural heritage, it's home to exquisite Mughal gardens and spiritual sites. Kashmir Valley's beauty, tranquility, and hospitality make it a timeless destination cherished worldwide.",
+            "rating": 5,
+            "menuInfo": {
+                "sightseeing": [
+                    "Srinagar, Mughal gardens, Dal Lake, Mughal, gardens",
+                    "Pahalgam, Awantipura Ruins"
+                    ],
+                "flight": [
+                        "Return Economy Class Airfare Included"
+                ],
+                "meals": [
+                    "Breakfast and Dinner"
+                ],
+                "carry": [
+                    "Authentic Government ID Card",
+                    "Comfortable warm clothing",
+                    "Sunscreen & lip balm",
+                    "Personal Medicines (if any)"
+                ]
+            },
+            "itneary": [{
+                    "id": 1,
+                    "day": 1,
+                    "location": "Arrival in Srinagar",
+                    "imgSrc": "/assets/images/srinagar3.webp",
+                    "description": "As you step off the plane at Srinagar airport, our attentive company representative or driver will be there to extend a warm welcome. Once you've gathered your belongings, you'll be ushered to your waiting vehicle, ready to begin your Kashmiri adventure. From there, we'll make our way to the luxurious deluxe houseboat where you'll be spending the night. Later in the day, as the sun begins to dip towards the horizon, immerse yourself in the tranquil beauty of Dal Lake with a peaceful Shikara ride. As night falls, enjoy a delicious dinner onboard the houseboat before retiring for a restful overnight stay."
+                },
+                {
+                    "id": 2,
+                    "day": 2,
+                    "location": "Srinagar to Pahalgam",
+                    "imgSrc": "/assets/images/pahalgam.webp",
+                    "description": "After savoring a hearty breakfast, it's time to bid farewell to Srinagar as we embark on our journey to Pahalgam. Along the scenic route, we'll pause to explore the historic Avantipura Ruins, offering a glimpse into Kashmir's rich cultural heritage. Upon arrival in Pahalgam, settle into your comfortable hotel accommodation. With the rest of the day at your leisure, you can explore the charming town, indulge in leisurely activities, or simply soak in the breathtaking natural beauty that surrounds you. As evening descends, treat yourself to a delectable dinner at the hotel before retiring for the night, fully immersed in the tranquility of Pahalgam."
+                },
+                {
+                    "id": 3,
+                    "day": 3,
+                    "location": "Pahalgam to Gulmarg",
+                    "imgSrc": "/assets/images/gulmarg1.webp",
+                    "description": "Following a satisfying breakfast, it's time to set off for Gulmarg, known for its stunning vistas and outdoor adventures. As we arrive, take in the majestic landscapes and crisp mountain air before checking into your hotel. Please note that Gulmarg's local taxi union prohibits outside vehicles, so we'll arrange for local transportation or ponies to explore the area. With the day ahead yours to enjoy as you please, take the opportunity to relax or venture out and discover the wonders of Gulmarg at your own pace. Later, dine on a delicious meal at the hotel before retiring for the night, enveloped by Gulmarg's serene ambiance."
+                },
+                {
+                    "id": 4,
+                    "day": 4,
+                    "location": "Gulmarg to Srinagar",
+                    "imgSrc": "/assets/images/srinagar.webp",
+                    "description": "After a leisurely breakfast, we'll bid farewell to Gulmarg and make our way back to Srinagar. Upon our return, settle into your hotel accommodation before embarking on a guided tour of the iconic Mughal Gardens, each a masterpiece of design and serenity. With the remainder of the day free for shopping and exploration, take the opportunity to pick up some souvenirs or simply soak in the bustling atmosphere of Srinagar's markets. As night falls, enjoy a final dinner at the hotel, reminiscing over the unforgettable experiences of your Kashmiri journey."
+                }
+                ,
+                {
+                    "id": 5,
+                    "day": 5,
+                    "location": "Departure from Srinagar",
+                    "imgSrc": "/assets/images/depart.webp",
+                    "description": "As your memorable journey draws to a close, savor a delicious breakfast before checking out of your hotel. With fond memories of your time in Kashmir, our driver will escort you to Srinagar airport for your onward journey, leaving you with the promise of future adventures in this enchanting region."
+                }
+            ],
+            "miscellaneous": {
+                "inclusive": [
+                        "Breakfast Provision",
+                        "Lunch Arrangement",
+                        "Dinner Service",
+                        "Floral Welcome",
+                        "Transportation"
+                    ],
+                "exclusive": [
+                        "Lodging",
+                        "Airfare"
+                ]
+            }
+        },
+        {
+            "id": 1004,
+            "imgSrc": "/assets/images/dal.webp",
+            "destTitle": "Dal Lake Delights",
+            "duration": "5",
+            "location": "Jammu & Kashmir",
+            "grade": "Premium",
+            "price": "On-Call",
+            "description": "Dal Lake, a jewel of Srinagar in Jammu and Kashmir, captivates with its ethereal beauty. Its tranquil waters mirror the surrounding snow-capped peaks and lush gardens, adorned with vibrant houseboats and floating markets. A symbol of Kashmir's rich culture, Dal Lake offers serene shikara rides and unforgettable sunset vistas, enchanting all who visit.",
+            "rating": 5,
+            "menuInfo": {
+                "sightseeing": [
+                    "Srinagar, Dal Lake, Shankaracharya Temple, Mughal gardens, Shikara Ride, Handicraft Emporium",
+                    "Gulmarg, Gondola Ride, Sonmarg, Thajiwas glacier"
+                    ],
+                "flight": [
+                        "Return Economy Class Airfare Included"
+                ],
+                "meals": [
+                    "Breakfast and Dinner"
+                ],
+                "carry": [
+                    "Authentic Government ID Card",
+                    "Comfortable warm clothing",
+                    "Sunscreen & lip balm",
+                    "Personal Medicines (if any)"
+                ]
+            },
+            "itneary": [{
+                    "id": 1,
+                    "day": 1,
+                    "location": "Arrival in Srinagar – Qayaam Gah Retreat",
+                    "imgSrc": "/assets/images/srinagar3.webp",
+                    "description": "Upon arrival at Srinagar airport, be welcomed by our representative who will guide you to the enchanting Qayaam Gah Retreat, perched on a secluded ridge overlooking Dal Lake. Check into your villa, blending traditional Kashmiri charm with modern luxury. Enjoy complimentary morning yoga sessions and a scenic walk to Rishi village. Indulge in optional yoga classes, therapy sessions, or private dining experiences at additional cost."
+                },
+                {
+                    "id": 2,
+                    "day": 2,
+                    "location": "Srinagar Sightseeing & Shopping",
+                    "imgSrc": "/assets/images/lalbazar.webp",
+                    "description": "After breakfast, immerse yourself in the architectural splendor of Srinagar's Mughal Gardens. Spend the afternoon exploring local markets for handicrafts and souvenirs. Return to the retreat for a serene evening with dinner and relaxation."
+                },
+                {
+                    "id": 3,
+                    "day": 3,
+                    "location": "Journey to Gulmarg's Alpine Wonderland",
+                    "imgSrc": "/assets/images/gulmarg1.webp",
+                    "description": "Following a hearty breakfast, depart for Gulmarg and check into your Premier Room boasting panoramic views of snow-capped mountains. Delight in a variety of chargeable activities, from skiing and trekking to spa indulgences and themed dining experiences. Unwind in the evening amidst the tranquil beauty of Gulmarg."
+                },
+                {
+                    "id": 4,
+                    "day": 4,
+                    "location": "Gulmarg to Srinagar ",
+                    "imgSrc": "/assets/images/srinagar2.webp",
+                    "description": "After breakfast, indulge in the iconic Gulmarg Gondola experience, Asia's largest and highest cable car project. This renowned attraction offers breathtaking views of the mountains and valleys, making it a must-try for all visitors. Following the exhilarating ride, journey back to Srinagar. Upon arrival, check into your hotel and enjoy the rest of the day at leisure. Dinner and overnight stay at the hotel in Srinagar."
+                },
+                {
+                    "id": 5,
+                    "day": 5,
+                    "location": "Departure from Srinagar",
+                    "imgSrc": "/assets/images/depart.webp",
+                    "description": "After breakfast, bid farewell to Srinagar as you transfer to the airport for your return flight, carrying cherished memories of your journey through the picturesque landscapes of Kashmir."
+                }
+            ],
+            "miscellaneous": {
+                "inclusive": [
+                    "Breakfast Provision",
+                    "Lunch Arrangement",
+                    "Dinner Service",
+                    "Floral Welcome",
+                    "Transportation"
+                ],
+                "exclusive": [
+                    "Lodging",
+                    "Airfare"
+                ]
+            }
+        },
+
+        {
+            "id": 1005,
+            "imgSrc": "/assets/images/jammu.webp",
+            "destTitle": " Maa Vaishno Devi Temple (Jammu)",
+            "duration": "3",
+            "location": "Jammu & Kashmir",
+            "grade": "Premium",
+            "price": "On-Call",
+            "description": "Jammu, the winter capital of Jammu and Kashmir, is renowned for its rich cultural heritage, ancient temples like Vaishno Devi and Raghunath Temple, and vibrant festivals like Navratri. Surrounded by picturesque landscapes, it offers a blend of spirituality, history, and natural beauty, making it a captivating destination for travelers worldwide.",
+            "rating": 4,
+            "menuInfo": {
+                "sightseeing": [
+                    "Katra, Maa Vaishno Devi"
+                ],
+                "flight": [
+                        "Return Economy Class Airfare Included"
+                ],
+                "meals": [
+                    "Breakfast and Dinner"
+                ],
+                "carry": [
+                    "Authentic Government ID Card",
+                    "Comfortable warm clothing",
+                    "Sunscreen & lip balm",
+                    "Personal Medicines (if any)"
+                ]
+            },
+            "itneary": [{
+                    "id": 1,
+                    "day": 1,
+                    "location": "Arrival in Jammu/Katra",
+                    "imgSrc": "/assets/images/katra.webp",
+                    "description": "Upon arrival at Jammu Airport, Jammu Railway Station, or Katra Railway Station, you'll be greeted by our representative for transfer to your hotel in Katra. Check-in and take some time to explore the local temples and markets. Dinner and overnight stay at the hotel."
+                },
+                {
+                    "id": 2,
+                    "day": 2,
+                    "location": "Katra – Maa Vaishno Devi Darshan",
+                    "imgSrc": "/assets/images/jammu.webp",
+                    "description": "After breakfast, embark on your sacred journey to seek blessings at Maa Vaishno Devi. The journey begins from the base camp at Katra, situated at 2500 feet above sea level, leading to Mata's Bhawan at 5200 feet. Whether by helicopter or trekking, the pilgrimage to the holy shrine nestled within the Trikuta Mountain is an exhilarating experience. Return to Katra in the evening for dinner and overnight stay at the hotel."
+                },
+                {
+                    "id": 3,
+                    "day": 3,
+                    "location": "Katra to Jammu",
+                    "imgSrc": "/assets/images/depart.webp",
+                    "description": "Following breakfast, depart for Jammu to catch your onward flight or train or any other means of transport."
+                }
+            ],
+            "miscellaneous": {
+                "inclusive": [
+                    "Breakfast Provision",
+                    "Lunch Arrangement",
+                    "Dinner Service",
+                    "Floral Welcome",
+                    "Transportation"
+                ],
+                "exclusive": [
+                    "Lodging",
+                    "Airfare"
+                ]
+            }
+        },
+
+        {
+            "id": 1006,
+            "imgSrc": "/assets/images/tso.webp",
+            "destTitle": "Ladakh Adventures",
+            "duration": "7",
+            "location": "Jammu & Kashmir",
+            "grade": "Premium",
+            "price": "On-Call",
+            "description": "Ladakh, a high-altitude peaks in the Indian Himalayas, captivates with its stunning landscapes, snow-capped peaks, lakes, ancient monasteries, rugged terrain and spiritual significance. Ladakh offers travelers unparalleled trekking, biking, and cultural experiences amidst breathtaking panoramas.",
+            "rating": 4,
+            "menuInfo": {
+                "sightseeing": [
+                    "Leh, Confluence of Zanskar - Indus rivers, Local Sightseeing's and Monastery Tour, Excursion to, Indus and Sham Valley Regio, Nubra Valley, Khardungla Pass, Hundar Village, Pangong, The Pangong Lake"
+                    ],
+                "flight": [
+                        "Return Economy Class Airfare Included"
+                ],
+                "meals": [
+                    "Breakfast and Dinner"
+                ],
+                "carry": [
+                    "Authentic Government ID Card",
+                    "Comfortable warm clothing",
+                    "Sunscreen & lip balm",
+                    "Personal Medicines (if any)"
+                ]
+            },
+            "itneary": [{
+                    "id": 1,
+                    "day": 1,
+                    "location": "Leh Arrival and Acclimatization",
+                    "imgSrc": "/assets/images/leh.webp",
+                    "description": "Commence your journey with an early morning flight to Leh. Upon landing at Leh Airport, our representative will warmly receive you and transfer you to your hotel. Take it easy and stay hydrated to adjust to the altitude of 11,000 feet. Enjoy dinner and a comfortable overnight stay at the hotel."
+                },
+                {
+                    "id": 2,
+                    "day": 2,
+                    "location": "Exploring Sham Valley's Highlights",
+                    "imgSrc": "/assets/images/ladakh.webp",
+                    "description": "After breakfast, embark on the Sham Valley Tour, featuring iconic attractions such as the Hall of Fame, Magnetic Hill, Gurudwara Pathar Sahib, and Sangam. Witness the meeting point of the Zanskar and Indus Rivers at Sangam. Later, visit Shanti Stupa and Leh Palace. Enjoy dinner and restful accommodation at the hotel."
+                },
+                {
+                    "id": 3,
+                    "day": 3,
+                    "location": "Leh to Nubra Valley via Khardung La Pass",
+                    "imgSrc": "/assets/images/zanskar.webp",
+                    "description": "Today, journey to Nubra Valley through the renowned Khardung La Pass, the world's highest motorable road. Admire panoramic views of snow-capped peaks before descending into the lush Nubra Valley. Experience an ATV ride upon arrival and explore the Hunder sand dunes. Retire for the night at the campsite with dinner included."
+                },
+                {
+                    "id": 4,
+                    "day": 4,
+                    "location": "Nubra Valley to Pangong Lake Excursion",
+                    "imgSrc": "/assets/images/nubra.webp",
+                    "description": "Set out for Pangong Lake after breakfast, traversing picturesque villages en route. Marvel at the breathtaking beauty of Pangong Lake surrounded by Himalayan peaks. Enjoy lunch at the camp and spend the afternoon capturing the serenity of the lake. Dinner and overnight stay at the campsite."
+                },
+                {
+                    "id": 5,
+                    "day": 5,
+                    "location": "Pangong Lake to Leh Return Journey",
+                    "imgSrc": "/assets/images/tso.webp",
+                    "description": "Witness a stunning sunrise over Pangong Lake before driving back to Leh. Upon arrival, check into your hotel and enjoy leisure time exploring the local market for souvenirs. Rest and savor dinner at the hotel."
+                },
+                {
+                    "id": 6,
+                    "day": 6,
+                    "location": "Monastery Exploration Tour",
+                    "imgSrc": "/assets/images/monastry.webp",
+                    "description": "Embark on a spiritual journey to Hemis Monastery, Thiksey Monastery, and Shey Palace. Delve into the ancient architecture and Buddhist heritage before returning to the hotel for relaxation. Enjoy dinner and overnight accommodation at the hotel."
+                },
+                {
+                    "id": 7,
+                    "day": 7,
+                    "location": "Leh Departure",
+                    "imgSrc": "/assets/images/depart.webp",
+                    "description": "After breakfast, bid farewell to Leh as you transfer to the airport for your onward journey, cherishing the unforgettable memories of Ladakh."
+                }
+            ],
+            "miscellaneous": {
+                "inclusive": [
+                    "Welcome drink upon arrival.",
+                    "Accommodation: 2 nights in Srinagar hotel, 1 night in Pahalgam hotel, 1 night in Houseboat.",
+                    "Daily breakfast and dinner provided.",
+                    "All transfers and sightseeing by Non-AC Vehicle.",
+                    "Transfers to Pahalgam and Gulmarg included.",
+                    "Full-day tour to Gulmarg.",
+                    "Explore famous Mughal Gardens in Srinagar.",
+                    "Complimentary Shikara Ride."
+                ],
+                "exclusive": [
+                        "GST not included.",
+                        "Travel insurance is not provided.",
+                        "Entrance fees to monuments and optional activities listed in the itinerary are not included.",
+                        "Additional meals beyond those specified are not covered.",
+                        "Any items not expressly mentioned in the Inclusions column are not provided.",
+                        "Personal expenses such as porterage, tips, laundry, telephone calls, and mineral water are not covered.",
+                        "Expenses arising from factors beyond our control, such as rail and flight delays, roadblocks, and political disturbances, are not included."
+                ]
+            }
+        },
+        {
+            "id": 1007,
+            "imgSrc": "/assets/images/srinagar.webp",
+            "destTitle": "Summer Backpacking",
+            "duration": "6",
+            "location": "Jammu & Kashmir",
+            "grade": "Premium",
+            "price": "On-Call",
+            "description": "Summers in Kashmir unfold like a paradise awakening from slumber. The valley, cradled by the Himalayas, transforms into a canvas of vibrant hues. Cool breezes carry the scent of saffron fields and pine forests, providing respite from the summer sun. Tourists alike seek solace in the lush meadows of Gulmarg or Pahalgam.",
+            "rating": 4,
+            "menuInfo": {
+                "sightseeing": [
+                    "Srinagar, Dal Lake, Shankaracharya Temple, Mughal gardens, Shikara Ride",
+                    "Pahalgam, Aru Valley, Awantipura Ruins, Betaab Valley,",
+                    "Snow Point, Pony Ride, Lidder River, Nanga Parbat, Tangmarg, Trek to Khilangmarg, Mountains Rides, Doodhpathri"
+                    ],
+                "flight": [
+                        "Return Economy Class Airfare Included"
+                ],
+                "meals": [
+                    "Breakfast and Dinner"
+                ],
+                "carry": [
+                    "Authentic Government ID Card",
+                    "Comfortable warm clothing",
+                    "Sunscreen & lip balm",
+                    "Personal Medicines (if any)"
+                ]
+            },
+            "itneary": [{
+                "id": 1,
+                "day": 1,
+                "location": "Arrival in Srinagar and Srinagar Exploration.",
+                "imgSrc": "/assets/images/srinagar4.webp",
+                "description": "Upon arrival at Srinagar airport, our executive will greet you and escort you to your hotel. Begin your exploration of Srinagar and discover the charms of Srinagar by visiting its iconic attractions, including Dal Lake, Mughal Gardens (Shalimar Bagh, Nishat Bagh, Chasma Shahi), Pari Mahal, and Shankara Charya Temple. Delight your taste buds with culinary delights at renowned restaurants. Enjoy leisure time for shopping in the vibrant Lal Chowk. Dinner and overnight stay at the hotel."
+            },
+            {
+                "id": 2,
+                "day": 2,
+                "location": "Srinagar to Pahalgam. Enroute the Saffron Valley and visit the awantipora ruin",
+                "imgSrc": "/assets/images/pahalgam1.webp",
+                "description": "Begin your day on your way to Pahalgam via a 4-hour scenic drive. Pause in Pulwama District to explore Avantipur Ruins. Check into your hotel upon arrival, enjoying leisure time for the day. Options include rafting or fishing in Lidder River and exploring the local market for souvenirs. Return to your hotel for dinner and spend the night in Pahalgam."
+            },
+            {
+                "id": 3,
+                "day": 3,
+                "location": "Pahalgam to Srinagar. Excursion trip to Betaab Valley And Aru Valley ",
+                "imgSrc": "/assets/images/betaab.webp",
+                "description": "Start your day with a serene Pahalgam sunrise, then enjoy a hearty breakfast. Prepare for adventures and board your transfers. Explore the picturesque Aru Valley, famous for lush meadows, clear lakes, and tall mountains. Visit the iconic Betaab Valley, beloved by Bollywood for its stunning beauty. If weather permits, head to the scenic Chandanwari Valley for a thrilling pony ride (extra cost). As the day ends, return to Srinagar. Check in at the hotel and relish a delicious dinner."
+            },
+            {
+                "id": 4,
+                "day": 4,
+                "location": "Trip to Sonmarg(Golden Meadow). Horse Riding Upto Thajwas Glacier",
+                "imgSrc": "/assets/images/sonmarg.webp",
+                "description": "Head to Sonmarg, famed for its beauty. Amidst the scenic drive, pause at the Sindh River valley's enchanting meadows. Sonamarg welcomes with serene tranquility. Engage in leisurely pursuits and opt for exciting adventures like pony rides to Thajiwas Glacier. Delight in Sonamarg's wonders before returning to Srinagar. Savor a delectable dinner and unwind at your hotel for the night."
+            },
+            {
+                "id": 5,
+                "day": 5,
+                "location": "Doodpathri Excursion",
+                "imgSrc": "/assets/images/doodhpathri.webp",
+                "description": "Embark on a scenic drive to Doodpathri, a serene hill station surrounded by pine and fir forests. Enjoy horseback rides and traditional tea amidst the natural beauty of the village. Return to Srinagar for dinner and overnight stay on a houseboat, experiencing the tranquility of Dal Lake."
+            },
+            {
+                "id": 6,
+                "day": 6,
+                "location": "Departure",
+                "imgSrc": "/assets/images/depart.webp",
+                "description": "Post breakfast in the morning, check out from your hotel. Depart with a lot of memories to cherish"
+            }
+            ],
+            "miscellaneous": {
+                "inclusive": [
+                        "All transfers and sightseeing by Non Ac Vehicle .",
+                        "Transfers of Pahalgam and Gulmarg.",
+                        "Sightseeing of famous Mughal Gardens in Srinagar.",
+                        "Full day tour to Gulmarg.",
+                        "02 Nights stay at a Hotel in Srinagar.",
+                        "01 Nights Stay at a Hotel in Pahalgam.",
+                        "01 Night at Deluxe Houseboat.",
+                        "Complimentary Shikara Ride",
+                        "Daily breakfast and dinner.",
+                        "Welcome drink on arrival"
+                    ],
+                "exclusive": [
+                        "All transfers and sightseeing by Non Ac Vehicle .",
+                        "Transfers of Pahalgam and Gulmarg.",
+                        "Sightseeing of famous Mughal Gardens in Srinagar.",
+                        "Full day tour to Gulmarg.",
+                        "02 Nights stay at a Hotel in Srinagar.",
+                        "01 Nights Stay at a Hotel in Pahalgam.",
+                        "01 Night at Deluxe Houseboat.",
+                        "Complimentary Shikara Ride",
+                        "Daily breakfast and dinner.",
+                        "Welcome drink on arrival"
+                ]
+            }
+        },
+
+        {
+            "id": 1008,
+            "imgSrc": "/assets/images/tulip.webp",
+            "destTitle": "Flowers of Spring and Meadows",
+            "duration": "7",
+            "location": "Jammu & Kashmir",
+            "grade": "Premium",
+            "price": "On-Call",
+            "description": "Spring in Kashmir unfurls like a painted canvas, transforming the valley into a paradise of ethereal beauty. Cherry blossoms cascade like pink confetti, adorning the trees with delicate petals. The air is filled with the sweet fragrance of saffron and almond blossoms, invoking a sense of tranquility.",
+            "rating": 4,
+            "menuInfo": {
+                "sightseeing": [
+                    "Srinagar, Boulevard Road, Dal Lake, Zabarwan Mountain Ranges, Shikara Ride, Mughal Gardens, CheshmaShahi, PariMahal, Shalimar Garden, Nishat Garden",
+                    "Shankaracharya Temple, Tulip Garden, Handicraft Emporium",
+                    "Pahalgam, Avantipura Ruins, Anantnag Sulpher Springs, Chandanwadi",
+                    "Snow Point, Pony Ride, Lidder River, Nanga Parbat, Tangmarg, Trek to Khilangmarg, Mountains Rides"
+                    
+                    ],
+                "flight": [
+                        "Return Economy Class Airfare Included"
+                ],
+                "meals": [
+                    "Breakfast and Dinner"
+                ],
+                "carry": [
+                    "Authentic Government ID Card",
+                    "Comfortable warm clothing",
+                    "Sunscreen & lip balm",
+                    "Personal Medicines (if any)"
+                ]
+            },
+            "itneary": [{
+                    "id": 1,
+                    "day": 1,
+                    "location": "Arrival in Srinagar. Stay in a houseboat.",
+                    "imgSrc": "/assets/images/houseboat.webp",
+                    "description": "Arrive at Srinagar airport, and witness snow-capped mountains. Our representative will guide you to the houseboat, check-in, and unwind. In the evening, take a one-hour Shikara ride, and admire Pir Panjal ranges. After, returning to the houseboat for dinner, stay overnight in Srinagar."
+                },
+                {
+                    "id": 2,
+                    "day": 2,
+                    "location": "Exploring Srinagar's Iconic Gardens",
+                    "imgSrc": "/assets/images/garden.webp",
+                    "description": "Begin your day at the iconic Tulip Garden called the Indira Gandhi Memorial Tulip Garden in Siraj Bagh. Then, head to Nishat Bagh, the Garden of Bliss, by Dal Lake's eastern side. Explore terraced Mughal gardens with lush lawns, colorful flowerbeds, and soothing fountains. Next, visit Shalimar Bagh, the Abode of Love, and other Srinagar attractions like Shankaracharya Temple and Chashma Shahi Pari Mahal for natural beauty. Conclude your tour with Hazaratbal Mosque and return for dinner and an overnight stay at your hotel."
+                },
+                {
+                    "id": 3,
+                    "day": 3,
+                    "location": "Srinagar to Gulmarg and enjoy a day of relaxation. Take Asia,s highest gondola ride",
+                    "imgSrc": "/assets/images/gulmarg1.webp",
+                    "description": "Start your day at Gulmarg, a scenic destination. Witness Tanmarg's enchanting landscapes. Reach Gulmarg and take the highest gondola ride. Admire panoramic views of Kashmir Valley. Explore Gulmarg with activities like trekking or pony rides to Khilangmarg, 6 kilometers away. Alternatively, enjoy the vibrant market scene. Hop from one cafe to another. Savor delicious culinary delights."
+                },
+                {
+                    "id": 4,
+                    "day": 4,
+                    "location": "Srinagar to Pahalgam . Enroute the Saffron Valley and visit the awantipora ruin",
+                    "imgSrc": "/assets/images/pahalgam1.webp",
+                    "description": "Begin your day on your way to Pahalgam via a 4-hour scenic drive. Pause in Pulwama District to explore Avantipur Ruins. Check into your hotel upon arrival, enjoying leisure time for the day. Options include rafting or fishing in Lidder River and exploring the local market for souvenirs. Return to your hotel for dinner and spend the night in Pahalgam."
+                },
+                {
+                    "id": 5,
+                    "day": 5,
+                    "location": "Pahalgam to Srinagar.Excursion trip to Betaab Valley And Aru Valley ",
+                    "imgSrc": "/assets/images/sankracharya.webp",
+                    "description": "Start your day with a serene Pahalgam sunrise, then enjoy a hearty breakfast. Prepare for adventures and board your transfers. Explore the picturesque Aru Valley, famous for lush meadows, clear lakes, and tall mountains. Visit the iconic Betaab Valley, beloved by Bollywood for its stunning beauty. If weather permits, head to the scenic Chandanwari Valley for a thrilling pony ride (extra cost). As the day ends, return to Srinagar. Check in at the hotel and relish a delicious dinner."
+                },
+                {
+                    "id": 6,
+                    "day": 6,
+                    "location": "Trip to Sonmarg(Golden Meadow). Horse Riding Upto Thajwas Glacier",
+                    "imgSrc": "/assets/images/sonmarg.webp",
+                    "description": "Head to Sonmarg, famed for its beauty. Amidst the scenic drive, pause at the Sindh River valley's enchanting meadows. Sonamarg welcomes with serene tranquility. Engage in leisurely pursuits and opt for exciting adventures like pony rides to Thajiwas Glacier. Delight in Sonamarg's wonders before returning to Srinagar. Savor a delectable dinner and unwind at your hotel for the night."
+                },
+                {
+                    "id": 7,
+                    "day": 7,
+                    "location": "Departure",
+                    "imgSrc": "/assets/images/depart.webp",
+                    "description": "Post breakfast in the morning, check out from your hotel. Depart with a lot of memories to cherish"
+                }
+            ],
+            "miscellaneous": {
+                "inclusive": [
+                    "10 Meals (Breakfast from Day 2 to Day 6, Dinner from Day 1 to Day 5)",
+                    "Driver Charges, Permits, Tolls, Fuel & Parking charges",
+                    "Shikara Ride (1 Hr Shikara Ride)",
+                    "Internal transfer to Aru Valley, Betaab Valley and Chandanwari",
+                    "Gondola Cable Car Phase 1 tickets",
+                    "Team Captain throughout the trip",
+                    "Medical kit",
+                    "All inner line permit if anything is applicable",
+                    "Mughal Gardens entry tickets",
+                    "Entry tickets to Aru Valley, Betaab Valley and Chandanwar"
+                    ],
+                "exclusive": [
+                    "GST (5%) is applicable extra.",
+                    "Any other food or beverage charges that are not included in the package.",
+                    "Any other costing involved due to any kind of natural calamity, forced circumstances, which are out of our control.",
+                    "Any other expense not mentioned in the inclusion column.",
+                    "Any personal expenses like a tip to the drivers, entry to monuments/monasteries, camera/video camera charges, laundry, telephone bills, tips, etc",
+                    "Airport pick-up and drop not inlcuded",
+                    "Pony Rides are not included",
+                    "Any other adventure activities which is not mentioned in the inclusions"
+                ]
+            }
+        }
+
+
+    ],
+
+    "destinations" : [
+        {
+            "id": "1",
+            "imgSrc": "/assets/images/pahalgam.webp",
+            "destTitle": "Pahalgam",
+            "location": "Jammu & Kashmir",
+            "season": "all",
+            "description": "Pahalgam, located in the Anantnag district of Jammu and Kashmir, India, is a picturesque hill station renowned for its breathtaking natural beauty. Situated at an altitude of 2,130 meters above sea level, it is nestled amidst the stunning Himalayan ranges and lush green pine forests. The Lidder River flows through this enchanting valley, adding to its charm. \nPahalgam is a popular tourist destination known for its stunning landscapes, offering opportunities for trekking, hiking, and adventure sports such as white-water rafting and horse riding. The town serves as the base camp for the annual Amarnath Yatra pilgrimage, attracting thousands of devotees every year. \nThe serene Betaab Valley, named after the Bollywood movie \"Betaab\" filmed there, is one of the major attractions in Pahalgam, offering panoramic views of snow-capped peaks and meadows adorned with colorful flowers. Nearby, the Aru Valley captivates visitors with its tranquil ambiance and lush greenery. \nApart from its natural beauty, Pahalgam is also known for its rich cultural heritage, with several ancient temples and shrines dotting the landscape. The town offers a range of accommodation options, from luxury resorts to budget guesthouses, catering to the needs of different travelers. With its stunning vistas, adventurous activities, and serene ambiance, Pahalgam remains a must-visit destination for nature lovers and adventure enthusiasts seeking solace in the lap of the Himalayas."
+        },
+        {
+            "id": "2",
+            "imgSrc": "/assets/images/tulip.webp",
+            "destTitle": "Tulip Garden",
+            "location": "Jammu & Kashmir",
+            "season": "spring",
+            "description": "The Tulip Garden, also known as the Indira Gandhi Memorial Tulip Garden, is situated in Srinagar, the summer capital of Jammu and Kashmir, India. Spread over an area of about 30 hectares, it is one of the largest tulip gardens in Asia. The garden is nestled at the foothills of the Zabarwan Range, offering a picturesque backdrop of the Dal Lake.\nIt was established in 2007 with the aim of boosting tourism in the region. The garden features a stunning array of colorful tulips, with over 60 varieties on display, including traditional Dutch tulips as well as indigenous varieties. The blooming season usually starts in late March and extends to early May, attracting thousands of visitors annually.\nApart from tulips, the garden also boasts other spring flowers like hyacinths, daffodils, and ranunculus, adding to its vibrant charm. Visitors can enjoy leisurely strolls amidst the blossoming flowers, take photographs, and soak in the breathtaking views of the surrounding mountains and the Dal Lake.\nThe Tulip Festival is a major attraction, drawing tourists from across the globe. During this festival, cultural programs, music, and traditional Kashmiri cuisine further enhance the experience. The garden not only serves as a visual delight but also plays a significant role in promoting tourism and fostering economic growth in the region."
+        },
+        {
+            "id": "3",
+            "imgSrc": "/assets/images/gulmarg.webp",
+            "destTitle": "Gulmarg",
+            "location": "Jammu & Kashmir",
+            "season": "all",
+            "description": "Gulmarg, located in the Baramulla district of Jammu and Kashmir, India, is a picturesque hill station renowned for its breathtaking beauty and adventure opportunities. Situated at an altitude of 2,690 meters above sea level, it's surrounded by snow-capped mountains, lush greenery, and meadows.\nThe name \"Gulmarg\" translates to \"Meadow of Flowers\" and it truly lives up to its name with its vibrant flora during spring and summer. It's a popular skiing destination during winter, offering some of the finest slopes and powder snow in the world. The Gulmarg Gondola, one of the highest cable cars in the world, provides stunning views of the surrounding peaks including Nanga Parbat and the Line of Control.\nApart from skiing, Gulmarg offers various other adventure activities like trekking, snowboarding, and mountain biking. The town itself has several hotels, restaurants, and shops catering to tourists. The historic St. Mary's Church and the Gulmarg Golf Course, one of the highest golf courses in the world, are notable attractions.\nGulmarg's serene environment and natural beauty make it a popular destination for honeymooners, nature enthusiasts, and adventure seekers alike. However, due to its location in a region with periodic security concerns, travelers are advised to check the current situation and travel advisories before planning a trip."
+        },
+        {
+            "id": "4",
+            "imgSrc": "/assets/images/yousmarg.webp",
+            "destTitle": "Yousmarg",
+            "location": "Jammu & Kashmir",
+            "season": "summer",
+            "description": "Yousmarg is a picturesque hill station located in the Budgam district of the Indian union territory of Jammu and Kashmir. Situated at an altitude of around 7,500 feet above sea level, it offers breathtaking views of the surrounding Himalayan ranges, dense forests, and lush green meadows. The word \"Yousmarg\" translates to \"Meadow of Yesu\" in Kashmiri, named after a revered historical figure in the region.\nYousmarg is renowned for its natural beauty and is a popular destination for trekking, camping, and picnics. The Doodh Ganga River flows through the area, adding to its scenic charm. Visitors can engage in activities like horse riding, angling, and nature walks. The meadows of Yousmarg are adorned with vibrant wildflowers during the summer months, creating a mesmerizing spectacle.\nThe hill station remains relatively untouched by commercialization, providing a serene escape from the hustle and bustle of city life. Accommodation options in Yousmarg include guesthouses, cottages, and tents, catering to various preferences and budgets. The local cuisine offers a delightful blend of Kashmiri flavors, with dishes like Rogan Josh and Wazwan being popular choices among tourists.\nYousmarg is accessible by road from Srinagar, the capital city of Jammu and Kashmir, making it a convenient destination for both domestic and international travelers seeking tranquility amidst nature's splendor."
+        },
+        {
+            "id": "5",
+            "imgSrc": "/assets/images/dal.webp",
+            "destTitle": "Dal Lake Srinagar",
+            "location": "Jammu & Kashmir",
+            "season": "all",
+            "description": "Dal Lake is a picturesque jewel nestled in Srinagar, the summer capital of Jammu and Kashmir, India. Spanning approximately 18 square kilometers, it is renowned for its pristine beauty and unique floating gardens called \"Rakhs.\" Surrounded by the majestic Himalayas, Dal Lake is fed by numerous mountain streams and is the second largest lake in the region.\nThe lake is dotted with charming houseboats, known locally as \"Shikaras,\" which serve as floating hotels offering a serene retreat to visitors. These houseboats are adorned with intricate wood carvings and offer stunning views of the surrounding mountains and lush greenery.\nA significant attraction of Dal Lake is its floating vegetable market, where local vendors sell fresh produce from their boats early in the morning. Tourists can also enjoy leisurely Shikara rides, exploring the lake's tranquil waters and experiencing the vibrant local culture.\nHowever, Dal Lake faces challenges such as pollution and encroachment, threatening its ecological balance. Efforts are underway to preserve and restore this natural wonder, including initiatives to clean the lake and regulate houseboat operations.\nDespite these challenges, Dal Lake remains a symbol of beauty and tranquility, attracting visitors from around the world to experience its timeless charm and unique cultural heritage."
+        },
+        {
+            "id": "6",
+            "imgSrc": "/assets/images/doodhpathri.webp",
+            "destTitle": "Doodhpathri",
+            "location": "Jammu & Kashmir",
+            "season": "all",
+            "description": "Doodhpathri, located in Budgam district of Jammu and Kashmir, India, is a picturesque valley known for its breathtaking natural beauty and lush green meadows. Situated at an altitude of around 8,957 feet above sea level, Doodhpathri is often referred to as the \"Valley of Milk\" due to the presence of numerous streams and rivulets that flow through the meadows, resembling the color of milk.\nThe valley is adorned with dense pine forests, vibrant wildflowers, and snow-capped peaks, making it a popular tourist destination for nature lovers and adventure enthusiasts. Visitors can engage in activities like trekking, horse riding, and picnicking amidst the serene surroundings.\nDoodhpathri is also renowned for its spiritual significance, with several ancient shrines and sacred sites scattered across the valley. The cool and refreshing climate, coupled with the tranquility of the surroundings, offers a perfect escape from the hustle and bustle of city life.\nAccess to Doodhpathri is primarily by road, with the nearest airport being Srinagar International Airport, approximately 42 kilometers away. The best time to visit Doodhpathri is during the summer months from May to August when the weather is pleasant, and the meadows are in full bloom, presenting a mesmerizing sight for visitors to behold."
+        },
+        {
+            "id": "7",
+            "imgSrc": "/assets/images/zanskar.webp",
+            "destTitle": "Zanskar Leh-Ladakh",
+            "location": "Jammu & Kashmir",
+            "season": "summer",
+            "description": "Zanskar is a remote region located in the Indian union territory of Ladakh, nestled in the western Himalayas. Renowned for its breathtaking landscapes, rich culture, and unique traditions, Zanskar is a haven for adventure enthusiasts and spiritual seekers alike.\nThe region is characterized by its rugged terrain, towering peaks, and deep river valleys, including the mighty Zanskar River, which freezes during the winter months, forming the famous Chadar Trek, a thrilling winter trekking experience.\nZanskar is predominantly inhabited by people of Tibetan descent who practice Tibetan Buddhism, which is deeply ingrained in the local way of life. Monasteries such as Karsha, Phuktal, and Zongkhul are sacred sites that attract pilgrims and tourists from around the world.\nDue to its remote location and harsh climate, Zanskar remained isolated for much of its history, leading to the preservation of its ancient customs and traditions. Traditional festivals like Losar (New Year) and Hemis Tsechu are celebrated with great fervor, offering a glimpse into the vibrant culture of the region.\nDespite its challenges, Zanskar has started to gain attention as a tourist destination, offering trekking, mountaineering, river rafting, and cultural experiences. However, efforts are being made to ensure that tourism development is sustainable and respects the region's fragile ecosystem and cultural heritage."
+        },
+        {
+            "id": "8",
+            "imgSrc": "/assets/images/tso.webp",
+            "destTitle": "Pangong Tso Lake",
+            "location": "Jammu & Kashmir",
+            "season": "summer",
+            "description": "Pangong Tso, also known as Pangong Lake, is a mesmerizing high-altitude lake situated in the Himalayas, spanning across the borders of India and China. Located at an altitude of about 4,350 meters (14,270 feet) above sea level, it stretches over 134 kilometers (83 miles) in length, with approximately two-thirds of its length lying within Chinese territory and one-third in Indian territory.\nThe lake is renowned for its crystal-clear blue waters that reflect the surrounding rugged mountains, creating a stunning visual spectacle. Its saline water freezes completely during the winter despite being a saltwater lake.\nPangong Tso gained international fame after featuring prominently in the Bollywood movie \"3 Idiots,\" attracting tourists from all over the world. Its remote and serene location offers visitors a unique opportunity for relaxation and rejuvenation amidst nature's pristine beauty.\nThe region around Pangong Tso is home to a diverse range of wildlife, including migratory birds like Brahmini ducks, bar-headed geese, and seagulls, making it a paradise for birdwatchers and nature enthusiasts.\nDue to its proximity to the Line of Actual Control (LAC) between India and China, access to certain parts of Pangong Tso may be restricted for tourists. Nonetheless, the lake remains a popular destination for adventure seekers, photographers, and those seeking solace in the lap of nature."
+        }
+    ]
+
+}
+
